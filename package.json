@@ -1,0 +1,24 @@
+{
+  "name": "ngoctrinh-bot",
+  "version": "1.0.0",
+  "description": "Sexy MotherFker Bot",
+  "main": "bot.js",
+  "author": "Phuc Doan",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.0.1",
+    "jsonframe-cheerio": "^3.0.1",
+    "node-opus": "^0.3.3",
+    "request": "^2.88.2",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
